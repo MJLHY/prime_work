@@ -2,3 +2,6 @@ task1
 contents
 
 mirae's view
+POSITIVE
+
+master
