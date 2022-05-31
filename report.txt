@@ -3,5 +3,4 @@ contents
 
 mirae's view
 POSITIVE
-
-master
+negitive
