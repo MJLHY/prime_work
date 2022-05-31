@@ -2,3 +2,4 @@ task1
 contents
 
 mirae's view
+negitive
